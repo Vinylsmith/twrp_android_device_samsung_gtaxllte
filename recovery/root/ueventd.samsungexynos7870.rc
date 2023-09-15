@@ -144,3 +144,5 @@
 /sys/devices/system/cpu/cpu*   cpufreq/interactive/io_is_busy                  0660    system  system
 # Secure MEM driver
 /dev/s5p-smem             0660   system     system
+# Add missing device permissions
+/dev/new_device           0660   system     system

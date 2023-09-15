@@ -9,4 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_gtaxllte.mk
 
 COMMON_LUNCH_CHOICES := \
-   omni_gtaxllte-eng
+   omni_gtaxllte-eng \
+   missing_lunch_choice_1 \
+   missing_lunch_choice_2

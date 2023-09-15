@@ -10,5 +10,3 @@ PRODUCT_MAKEFILES := \
 
 COMMON_LUNCH_CHOICES := \
    omni_gtaxllte-eng \
-   missing_lunch_choice_1 \
-   missing_lunch_choice_2

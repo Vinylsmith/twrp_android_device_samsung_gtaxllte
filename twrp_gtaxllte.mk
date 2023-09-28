@@ -32,4 +32,4 @@ endif
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_KERNEL):kernel \
-    $(LOCAL_KERNEL_DTB):dtb.img
+    $(LOCAL_KERNEL_DTB):dt.img
